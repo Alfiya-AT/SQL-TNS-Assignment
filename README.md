@@ -2,7 +2,6 @@
 
 This repository contains **two SQL assignments** designed to practice and demonstrate SQL concepts using **PostgreSQL** and **pgAdmin 4**.
 
----
 
 ## 📌 Objective
 
@@ -18,7 +17,6 @@ The assignments aim to help learners understand and implement:
 - Stored Procedures / Functions
 - Database design, normalization, and relationships
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -26,7 +24,6 @@ The assignments aim to help learners understand and implement:
 - Client Tool: pgAdmin 4
 - Language: SQL (PostgreSQL – plpgsql)
 
----
 
 ## 📂 Assignment 1: Employee & Department Database
 
@@ -63,7 +60,6 @@ Practice basic SQL operations, table creation, inserting data, joins, aggregates
 7. **Save SQL Script**  
    - File name: `Assignment1.sql`  
 
----
 
 ## 📂 Assignment 2: Sales & Products Database
 
@@ -103,7 +99,6 @@ Practice advanced SQL concepts including window functions, complex joins, subque
 7. **Save SQL Script**  
    - File name: `Assignment2.sql`  
 
----
 
 ## 🧭 Steps to Execute Assignments in pgAdmin
 
@@ -117,4 +112,3 @@ Practice advanced SQL concepts including window functions, complex joins, subque
    - Create stored procedures/functions  
 5. Verify inserted data using **View/Edit Data → All Rows**.  
 
----
