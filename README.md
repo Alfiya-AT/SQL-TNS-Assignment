@@ -61,7 +61,7 @@ Practice basic SQL operations, table creation, inserting data, joins, aggregates
    - Execute using `CALL GetEmployeesByDept(2)`  
 
 7. **Save SQL Script**  
-   - File name: `Assignment1_Employee_Department_PostgreSQL.sql`  
+   - File name: `Assignment1.sql`  
 
 ---
 
@@ -101,7 +101,7 @@ Practice advanced SQL concepts including window functions, complex joins, subque
    - Execute using `SELECT * FROM GetCategorySales(...)`  
 
 7. **Save SQL Script**  
-   - File name: `Assignment2_Sales_Products_PostgreSQL.sql`  
+   - File name: `Assignment2.sql`  
 
 ---
 
